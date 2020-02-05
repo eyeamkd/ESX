@@ -1,4 +1,4 @@
-# Easy Search Extension  
+# Easy Search Xtension  
 
 <h3>Usage :</h3> 
  <ol> 
