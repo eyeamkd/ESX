@@ -1,0 +1,27 @@
+{
+    "manifest_version": 2,
+  
+    "name": "Search Shortcut ",
+    "description": "Word Searcher Extension especially useful for devs",
+    "version": "0.0.1",
+  
+    "browser_action": {
+     
+    }, 
+    "background": {
+        "scripts": ["background.js"]
+    },
+    
+    "permissions": [
+        "storage", "activeTab", "http://*/*", "https://*/*"
+    ], 
+      "commands": {
+        "seaerch-feature": {
+          "suggested_key": {
+            "default": "Ctrl+Shift+5"
+          },
+          "description": "Used to search keywords",
+          "global": true
+        }
+      }
+  }
