@@ -29,6 +29,13 @@
           },
           "description": "Used to search something directly on Stack Overflow",
           "global": true
+        }, 
+        "youtube-search": {
+          "suggested_key": {
+            "default": "Ctrl+Shift+3"
+          },
+          "description": "Used to search something directly on Youtube",
+          "global": true
         }
       }
   }
