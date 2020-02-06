@@ -1,10 +1,12 @@
-# Easy Search Xtension for Google and StackOverflow
+# Easy Search Xtension for Google Chrome
 
 <h3>Shortcuts :</h3> 
 
 Use `Ctrl + Shift + 5` for Google Search
 
-Use `Ctrl + Shift + 4` for Stack OverFlow Search 
+Use `Ctrl + Shift + 4` for Stack OverFlow Search  
+
+Use `Ctrl + Shift + 3` for Youtube Search 
 
  
 <h3>Usage :</h3> 
