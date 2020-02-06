@@ -16,11 +16,18 @@
         "storage", "activeTab", "http://*/*", "https://*/*"
     ], 
       "commands": {
-        "seaerch-feature": {
+        "search-feature": {
           "suggested_key": {
             "default": "Ctrl+Shift+5"
           },
           "description": "Used to search keywords",
+          "global": true
+        },
+        "stack-overflow-search": {
+          "suggested_key": {
+            "default": "Ctrl+Shift+4"
+          },
+          "description": "Used to search something directly on Stack Overflow",
           "global": true
         }
       }
